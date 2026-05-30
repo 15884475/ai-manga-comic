@@ -2,13 +2,28 @@
 __pycache__/
 *.pyc
 .DS_Store
-outputs/*
-!outputs/.gitkeep
 *.safetensors
 *.ckpt
 *.pt
 *.pth
-/ffmpeg
-outputs/
-story.json
 /bin/ffmpeg
+
+# Outputs - large binary/media files, don't track
+/outputs/*.mp4
+/outputs/*.mp3
+/outputs/audio/*.mp3
+/outputs/pages/*.png
+/outputs/panels/scene_*.png
+
+# But track docs and scripts
+!/outputs/assemble_video.py
+!/outputs/panels/create_panels.py
+!/outputs/panels/create_placeholders.py
+!/outputs/panels/generate_free.py
+!/outputs/panels/generate_panels.py
+!/outputs/panels/panel_mapping.json
+!/outputs/audio/audio_mapping.json
+!/outputs/panels/.gitkeep
+
+# Track story
+!story.json

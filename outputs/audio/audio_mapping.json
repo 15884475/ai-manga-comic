@@ -1,0 +1,74 @@
+[
+  {
+    "scene": 1,
+    "panel": 1,
+    "text": "1998年夏天，高三（2）班的最后一节课结束了。窗外，乌云正悄悄聚集。",
+    "path": "./outputs/audio/narration_1780140792.mp3"
+  },
+  {
+    "scene": 1,
+    "panel": 2,
+    "text": "林小北收拾好书包，目光不由自主地飘向那个熟悉的背影。",
+    "path": "./outputs/audio/narration_1780140796.mp3"
+  },
+  {
+    "scene": 1,
+    "panel": 3,
+    "text": "苏雨晴看了看窗外——下雨了。她没带伞。",
+    "path": "./outputs/audio/narration_1780140798.mp3"
+  },
+  {
+    "scene": 2,
+    "panel": 1,
+    "text": "雨越下越大。苏雨晴站在教学楼门口，看着雨帘发愁。",
+    "path": "./outputs/audio/narration_1780140800.mp3"
+  },
+  {
+    "scene": 2,
+    "panel": 2,
+    "text": "林小北鼓起勇气，默默站到了她旁边。",
+    "path": "./outputs/audio/narration_1780140803.mp3"
+  },
+  {
+    "scene": 2,
+    "panel": 3,
+    "text": "雨飘进来，打湿了她的肩膀。他想说什么，话到嘴边又咽了回去。",
+    "path": "./outputs/audio/narration_1780140806.mp3"
+  },
+  {
+    "scene": 3,
+    "panel": 1,
+    "text": "雨更大了。林小北鼓起勇气，把课本举在了两人头顶。",
+    "path": "./outputs/audio/narration_1780140807.mp3"
+  },
+  {
+    "scene": 3,
+    "panel": 2,
+    "text": "近距离的瞬间，他闻到了她发梢淡淡的洗发水香味。",
+    "path": "./outputs/audio/narration_1780140810.mp3"
+  },
+  {
+    "scene": 3,
+    "panel": 3,
+    "text": "雨渐渐小了。一道彩虹悄然挂在天边。",
+    "path": "./outputs/audio/narration_1780140811.mp3"
+  },
+  {
+    "scene": 4,
+    "panel": 1,
+    "text": "两人并肩走在雨后湿漉漉的校园小路上。",
+    "path": "./outputs/audio/narration_1780140813.mp3"
+  },
+  {
+    "scene": 4,
+    "panel": 2,
+    "text": "她打开速写本，里面画着一个在梧桐树下看书的少年。原来她早就注意到了他。",
+    "path": "./outputs/audio/narration_1780140815.mp3"
+  },
+  {
+    "scene": 4,
+    "panel": 3,
+    "text": "那个夏天，那个下雨天，一段青春的故事，刚刚开始。",
+    "path": "./outputs/audio/narration_1780140817.mp3"
+  }
+]

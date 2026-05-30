@@ -1,0 +1,64 @@
+{
+  "title": "一个少年和会说话的猫寻找星辰之花",
+  "synopsis": "一个少年和会说话的猫寻找星辰之花 — 一个由AI生成的manga风格漫剧故事。",
+  "characters": [
+    {
+      "name": "主角",
+      "role": "主要角色",
+      "voice": "中性"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "title": "第1幕",
+      "setting": "场景1的设定",
+      "panels": [
+        {
+          "scene_index": 1,
+          "panel_index": 1,
+          "description": "A manga style scene: 一个少年和会说话的猫寻找星辰之花, part 1-1",
+          "narration": "旁白：故事进入了第1幕。",
+          "dialogue": {},
+          "camera": "wide shot",
+          "background": "Scene background 1"
+        },
+        {
+          "scene_index": 1,
+          "panel_index": 2,
+          "description": "A manga style scene: 一个少年和会说话的猫寻找星辰之花, part 1-2",
+          "narration": "旁白：故事进入了第1幕。",
+          "dialogue": {},
+          "camera": "medium shot",
+          "background": "Scene background 1"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "第2幕",
+      "setting": "场景2的设定",
+      "panels": [
+        {
+          "scene_index": 2,
+          "panel_index": 1,
+          "description": "A manga style scene: 一个少年和会说话的猫寻找星辰之花, part 2-1",
+          "narration": "旁白：故事进入了第2幕。",
+          "dialogue": {},
+          "camera": "wide shot",
+          "background": "Scene background 2"
+        },
+        {
+          "scene_index": 2,
+          "panel_index": 2,
+          "description": "A manga style scene: 一个少年和会说话的猫寻找星辰之花, part 2-2",
+          "narration": "旁白：故事进入了第2幕。",
+          "dialogue": {},
+          "camera": "medium shot",
+          "background": "Scene background 2"
+        }
+      ]
+    }
+  ],
+  "style": "manga"
+}

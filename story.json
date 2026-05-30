@@ -1,0 +1,135 @@
+{
+  "title": "雨巷青春",
+  "synopsis": "1998年夏天，高三（2）班的林小北暗恋着画画很好的苏雨晴。一个暴雨的放学午后，两人在教学楼屋檐下意外相遇躲雨。雨越下越大，两人的距离越靠越近…一段关于青春、暗恋和那个下雨天的故事。",
+  "characters": [
+    {"name": "林小北", "role": "男主角，文静内敛，喜欢文学", "voice": "年轻温和"},
+    {"name": "苏雨晴", "role": "女主角，温柔细腻，喜欢画画", "voice": "轻柔甜美"}
+  ],
+  "style": "realistic manga",
+  "scenes": [
+    {
+      "index": 1,
+      "title": "放学前",
+      "setting": "1998年夏天的教室，窗外乌云密布",
+      "panels": [
+        {
+          "panel_index": 1,
+          "camera": "wide shot",
+          "description": "A 1990s Chinese high school classroom, old wooden desks, blackboard with chalk writings, dark clouds visible through window, students packing bags, summer afternoon light",
+          "background": "old classroom with ceiling fans, propaganda posters on wall, 1990s Chinese school style",
+          "narration": "1998年夏天，高三（2）班的最后一节课结束了。窗外，乌云正悄悄聚集。",
+          "dialogue": {}
+        },
+        {
+          "panel_index": 2,
+          "camera": "medium shot",
+          "description": "A shy teenage boy in 1990s Chinese school uniform packing books, glancing toward a girl across the classroom, him wearing glasses, looking nervous",
+          "background": "classroom interior, other students leaving",
+          "narration": "林小北收拾好书包，目光不由自主地飘向那个熟悉的背影。",
+          "dialogue": {}
+        },
+        {
+          "panel_index": 3,
+          "camera": "close-up",
+          "description": "A pretty teenage girl with ponytail in 1990s Chinese school uniform, looking out window worriedly, holding a sketchbook, noticing the dark sky",
+          "background": "classroom near window, rain starting outside",
+          "narration": "苏雨晴看了看窗外——下雨了。她没带伞。",
+          "dialogue": {"苏雨晴": "哎呀，忘带伞了…"}
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "屋檐下",
+      "setting": "教学楼的旧屋檐下，雨帘如幕",
+      "panels": [
+        {
+          "panel_index": 1,
+          "camera": "wide shot",
+          "description": "Old school building entrance with traditional Chinese eaves, heavy rain pouring down like a curtain, two students standing under the narrow roof, 1990s Chinese school architecture",
+          "background": "rainy school campus, wet concrete ground, old fashioned school gate",
+          "narration": "雨越下越大。苏雨晴站在教学楼门口，看着雨帘发愁。",
+          "dialogue": {}
+        },
+        {
+          "panel_index": 2,
+          "camera": "medium shot",
+          "description": "Two Chinese high school students standing side by side under narrow eaves, rain splashing near them, awkward distance between boy and girl, both in school uniforms",
+          "background": "school entrance, raining heavily, wet ground with puddles",
+          "narration": "林小北鼓起勇气，默默站到了她旁边。",
+          "dialogue": {"林小北": "你…也没带伞啊？", "苏雨晴": "嗯，没想到下这么大。"}
+        },
+        {
+          "panel_index": 3,
+          "camera": "close-up",
+          "description": "Close up of rain droplets on a girl's shoulder, school uniform getting wet, a boy's hand holding a notebook hesitating whether to offer it as shelter",
+          "background": "rainy atmosphere, droplets visible in air",
+          "narration": "雨飘进来，打湿了她的肩膀。他想说什么，话到嘴边又咽了回去。",
+          "dialogue": {}
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "靠近",
+      "setting": "雨更大了，两人不自觉地靠近",
+      "panels": [
+        {
+          "panel_index": 1,
+          "camera": "medium shot",
+          "description": "Two teenagers standing closer now, shoulders almost touching, boy awkwardly holding a textbook over their heads as makeshift shelter, rain pouring around them",
+          "background": "school entrance corner, heavy rain",
+          "narration": "雨更大了。林小北鼓起勇气，把课本举在了两人头顶。",
+          "dialogue": {"林小北": "那个…先遮一下吧。"}
+        },
+        {
+          "panel_index": 2,
+          "camera": "close-up",
+          "description": "Close up of a teenage boy and girl looking at each other, faces very close, rain droplets on glasses, girl's eyes reflecting shyness and warmth",
+          "background": "blurred rain background, warm atmosphere",
+          "narration": "近距离的瞬间，他闻到了她发梢淡淡的洗发水香味。",
+          "dialogue": {"苏雨晴": "谢谢…你叫林小北对吧？", "林小北": "嗯。你是…苏雨晴，画画很好的那个。"}
+        },
+        {
+          "panel_index": 3,
+          "camera": "medium shot",
+          "description": "Rain lightening, sunlight breaking through clouds, girl smiling at boy, boy looking relieved and happy, rainbow visible in distance",
+          "background": "post-rain sky, wet but bright campus, rainbow arc",
+          "narration": "雨渐渐小了。一道彩虹悄然挂在天边。",
+          "dialogue": {"苏雨晴": "雨停了。", "林小北": "嗯…我送你回去吧。"}
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "同行",
+      "setting": "雨后的校园小径，夕阳微露",
+      "panels": [
+        {
+          "panel_index": 1,
+          "camera": "wide shot",
+          "description": "A tree-lined path on a Chinese campus after rain, wet ground reflecting sunlight, two teenagers walking side by side, school bags on backs, summer greenery",
+          "background": "campus path with old trees, wet leaves glistening",
+          "narration": "两人并肩走在雨后湿漉漉的校园小路上。",
+          "dialogue": {}
+        },
+        {
+          "panel_index": 2,
+          "camera": "close-up",
+          "description": "Close up of a sketchbook opened to reveal a beautiful pencil drawing of a boy reading under a tree, girl's hand holding the sketchbook",
+          "background": "soft afternoon light filtering through trees",
+          "narration": "她打开速写本，里面画着一个在梧桐树下看书的少年。原来她早就注意到了他。",
+          "dialogue": {"苏雨晴": "我见过你——你在老梧桐下看书，我画过你。"}
+        },
+        {
+          "panel_index": 3,
+          "camera": "medium shot",
+          "description": "Golden sunset light, two teenagers silhouetted against the warm sky, standing at a crossroad, smiling at each other, a gentle beginning of young love",
+          "background": "golden hour campus, beautiful sunset after rain",
+          "narration": "那个夏天，那个下雨天，一段青春的故事，刚刚开始。",
+          "dialogue": {"林小北": "明天…还会下雨吗？", "苏雨晴": "下雨的话，我在这等你。"}
+        }
+      ]
+    }
+  ]
+}

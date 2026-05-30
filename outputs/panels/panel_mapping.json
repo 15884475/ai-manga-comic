@@ -1,0 +1,140 @@
+[
+  {
+    "prompt": {
+      "prompt": "Manga style. wide shot. A 1990s Chinese high school classroom, old wooden desks, blackboard with chalk writings, dark clouds visible through window, students packing bags, summer afternoon light. Background: old classroom with ceiling fans, propaganda posters on wall, 1990s Chinese school style",
+      "scene": 1,
+      "panel": 1,
+      "narration": "1998年夏天，高三（2）班的最后一节课结束了。窗外，乌云正悄悄聚集。",
+      "dialogue": {}
+    },
+    "path": "outputs/panels/scene_1_1.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. medium shot. A shy teenage boy in 1990s Chinese school uniform packing books, glancing toward a girl across the classroom, him wearing glasses, looking nervous. Background: classroom interior, other students leaving",
+      "scene": 1,
+      "panel": 2,
+      "narration": "林小北收拾好书包，目光不由自主地飘向那个熟悉的背影。",
+      "dialogue": {}
+    },
+    "path": "outputs/panels/scene_1_2.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. close-up. A pretty teenage girl with ponytail in 1990s Chinese school uniform, looking out window worriedly, holding a sketchbook, noticing the dark sky. Background: classroom near window, rain starting outside",
+      "scene": 1,
+      "panel": 3,
+      "narration": "苏雨晴看了看窗外——下雨了。她没带伞。",
+      "dialogue": {
+        "苏雨晴": "哎呀，忘带伞了…"
+      }
+    },
+    "path": "outputs/panels/scene_1_3.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. wide shot. Old school building entrance with traditional Chinese eaves, heavy rain pouring down like a curtain, two students standing under the narrow roof, 1990s Chinese school architecture. Background: rainy school campus, wet concrete ground, old fashioned school gate",
+      "scene": 2,
+      "panel": 1,
+      "narration": "雨越下越大。苏雨晴站在教学楼门口，看着雨帘发愁。",
+      "dialogue": {}
+    },
+    "path": "outputs/panels/scene_2_1.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. medium shot. Two Chinese high school students standing side by side under narrow eaves, rain splashing near them, awkward distance between boy and girl, both in school uniforms. Background: school entrance, raining heavily, wet ground with puddles",
+      "scene": 2,
+      "panel": 2,
+      "narration": "林小北鼓起勇气，默默站到了她旁边。",
+      "dialogue": {
+        "林小北": "你…也没带伞啊？",
+        "苏雨晴": "嗯，没想到下这么大。"
+      }
+    },
+    "path": "outputs/panels/scene_2_2.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. close-up. Close up of rain droplets on a girl's shoulder, school uniform getting wet, a boy's hand holding a notebook hesitating whether to offer it as shelter. Background: rainy atmosphere, droplets visible in air",
+      "scene": 2,
+      "panel": 3,
+      "narration": "雨飘进来，打湿了她的肩膀。他想说什么，话到嘴边又咽了回去。",
+      "dialogue": {}
+    },
+    "path": "outputs/panels/scene_2_3.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. medium shot. Two teenagers standing closer now, shoulders almost touching, boy awkwardly holding a textbook over their heads as makeshift shelter, rain pouring around them. Background: school entrance corner, heavy rain",
+      "scene": 3,
+      "panel": 1,
+      "narration": "雨更大了。林小北鼓起勇气，把课本举在了两人头顶。",
+      "dialogue": {
+        "林小北": "那个…先遮一下吧。"
+      }
+    },
+    "path": "outputs/panels/scene_3_1.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. close-up. Close up of a teenage boy and girl looking at each other, faces very close, rain droplets on glasses, girl's eyes reflecting shyness and warmth. Background: blurred rain background, warm atmosphere",
+      "scene": 3,
+      "panel": 2,
+      "narration": "近距离的瞬间，他闻到了她发梢淡淡的洗发水香味。",
+      "dialogue": {
+        "苏雨晴": "谢谢…你叫林小北对吧？",
+        "林小北": "嗯。你是…苏雨晴，画画很好的那个。"
+      }
+    },
+    "path": "outputs/panels/scene_3_2.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. medium shot. Rain lightening, sunlight breaking through clouds, girl smiling at boy, boy looking relieved and happy, rainbow visible in distance. Background: post-rain sky, wet but bright campus, rainbow arc",
+      "scene": 3,
+      "panel": 3,
+      "narration": "雨渐渐小了。一道彩虹悄然挂在天边。",
+      "dialogue": {
+        "苏雨晴": "雨停了。",
+        "林小北": "嗯…我送你回去吧。"
+      }
+    },
+    "path": "outputs/panels/scene_3_3.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. wide shot. A tree-lined path on a Chinese campus after rain, wet ground reflecting sunlight, two teenagers walking side by side, school bags on backs, summer greenery. Background: campus path with old trees, wet leaves glistening",
+      "scene": 4,
+      "panel": 1,
+      "narration": "两人并肩走在雨后湿漉漉的校园小路上。",
+      "dialogue": {}
+    },
+    "path": "outputs/panels/scene_4_1.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. close-up. Close up of a sketchbook opened to reveal a beautiful pencil drawing of a boy reading under a tree, girl's hand holding the sketchbook. Background: soft afternoon light filtering through trees",
+      "scene": 4,
+      "panel": 2,
+      "narration": "她打开速写本，里面画着一个在梧桐树下看书的少年。原来她早就注意到了他。",
+      "dialogue": {
+        "苏雨晴": "我见过你——你在老梧桐下看书，我画过你。"
+      }
+    },
+    "path": "outputs/panels/scene_4_2.png"
+  },
+  {
+    "prompt": {
+      "prompt": "Manga style. medium shot. Golden sunset light, two teenagers silhouetted against the warm sky, standing at a crossroad, smiling at each other, a gentle beginning of young love. Background: golden hour campus, beautiful sunset after rain",
+      "scene": 4,
+      "panel": 3,
+      "narration": "那个夏天，那个下雨天，一段青春的故事，刚刚开始。",
+      "dialogue": {
+        "林小北": "明天…还会下雨吗？",
+        "苏雨晴": "下雨的话，我在这等你。"
+      }
+    },
+    "path": "outputs/panels/scene_4_3.png"
+  }
+]

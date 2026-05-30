@@ -66,6 +66,19 @@ workflows/        # ComfyUI workflow JSONs (manga_txt2img.json)
 | `video` | Assemble pages + audio into MP4 |
 | `run` | **Full pipeline** — all steps at once |
 
+## First Production Run: 「雨巷青春」
+
+See [PRODUCTION_REPORT.md](./PRODUCTION_REPORT.md) for the full post-mortem.
+
+| Item | Detail |
+|------|--------|
+| Story | 90s campus love story — rainy day sheltering together |
+| Status | ⚠️ Panels are PIL placeholder images (no image gen API available) |
+| Duration | ~60s (12 pages × 5s) |
+| Video | 1080×1920 portrait, H.264 + AAC, ~3MB |
+| Root Cause | No FAL_KEY / SiliconFlow image gen access / ComfyUI |
+| Fix | Configure FAL_KEY or SiliconFlow image models, then re-run with real images |
+
 ## Requirements
 
 - Python 3.9+
