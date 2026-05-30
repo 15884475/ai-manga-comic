@@ -1,0 +1,39 @@
+# AI漫剧 Configuration
+
+# Image Generation
+image:
+  engine: diffusers  # comfyui or diffusers
+  model: hakurei/waifu-diffusion
+  width: 512
+  height: 768
+  steps: 25
+  negative_prompt: "low quality, deformed, blurry, bad anatomy"
+
+# ComfyUI (if using comfyui engine)
+comfyui:
+  server_url: http://127.0.0.1:8188
+  workflow: workflows/manga_txt2img.json
+
+# Layout
+layout:
+  page_width: 1080
+  page_height: 1920
+  direction: rtl  # rtl=manga, ltr=comic
+  gap: 8
+
+# Video
+video:
+  fps: 30
+  duration_per_page: 5.0
+  transition: fade
+
+# TTS
+tts:
+  voice: zh-CN-XiaoxiaoNeural
+
+# Story Generation
+story:
+  model: qwen2.5:7b
+  api_base: http://localhost:11434
+  scenes: 4
+  panels_per_scene: 3
